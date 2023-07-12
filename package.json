@@ -11,6 +11,10 @@
   "type": "module",
   "module": "./dist/engine.es.js",
   "types": "./dist/main.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anubissoftware/calendar-engine"
+  },
   "files": [
     "dist"
   ],
