@@ -8,7 +8,7 @@
     "./dist/main.css": "./dist/main.css"
   },
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.3",
   "type": "module",
   "module": "./dist/engine.es.js",
   "types": "./dist/main.d.ts",
