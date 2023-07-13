@@ -1,5 +1,6 @@
 {
   "name": "calendar-engine",
+  "author": "Anubis Software",
   "exports": {
     ".": {
       "import": "./dist/engine.es.js"
@@ -7,7 +8,7 @@
     "./dist/main.css": "./dist/main.css"
   },
   "private": false,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "module": "./dist/engine.es.js",
   "types": "./dist/main.d.ts",
